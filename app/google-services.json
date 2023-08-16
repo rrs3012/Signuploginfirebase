@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676944537955",
+    "project_id": "signup-login-firebase-365b2",
+    "storage_bucket": "signup-login-firebase-365b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676944537955:android:4b74aec5e114dfd0828b56",
+        "android_client_info": {
+          "package_name": "com.example.signuploginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676944537955-23c6qr9ljl50nc4oti2peccai8bs2gcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBerMGGzXNjU9O1QM5QcH0kb6o-DgfLYNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676944537955-23c6qr9ljl50nc4oti2peccai8bs2gcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
